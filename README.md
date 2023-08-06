@@ -1,5 +1,5 @@
 ### Hello there 👋
-[](https://github.com/rodriguesrm/rodriguesrm/blob/main/obiwan-hello-there.gif)
+(https://github.com/rodriguesrm/rodriguesrm/blob/main/obiwan-hello-there.gif)
 
 <!--
 **rodriguesrm/rodriguesrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
