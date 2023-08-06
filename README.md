@@ -2,6 +2,7 @@
 
 <!--
 **rodriguesrm/rodriguesrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -12,4 +13,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about .NET, C#, Clean Code, SOLID ...
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigues-rm/) ...
 - ⚡ Fun fact: Rest assured, Han shot first...
--->
